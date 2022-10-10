@@ -15,6 +15,11 @@
         "label": "Monocr",
         "uiTheme": "vs-dark",
         "path": "./themes/Monocr-color-theme.json"
+      },
+      {
+        "label": "Monocr (Simple)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monocr.NoGutter-color-theme.json"
       }
     ]
   }
