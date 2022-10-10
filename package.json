@@ -1,0 +1,21 @@
+{
+  "name": "sxhk0",
+  "displayName": "sxhk0",
+  "description": "personal vscode theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monocr",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monocr-color-theme.json"
+      }
+    ]
+  }
+}
