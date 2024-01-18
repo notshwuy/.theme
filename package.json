@@ -20,6 +20,21 @@
         "label": "Monocr (Simple)",
         "uiTheme": "vs-dark",
         "path": "./themes/Monocr.NoGutter-color-theme.json"
+      },
+      {
+        "label": "Collapse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Collapse.NoGutter-color-theme.json"
+      },
+      {
+        "label": "zhxo'yll",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yellow.NoGutter-color-theme.json"
+      },
+      {
+        "label": "zhxo'red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Red.NoGutter-color-theme.json"
       }
     ]
   }
