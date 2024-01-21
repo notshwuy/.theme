@@ -1,7 +1,11 @@
 {
-  "name": "zhxo",
+  "name": "zhxo-themes",
   "displayName": "zhxo'themes",
   "description": "shwuy's personal vscode theme collection.",
+  "publisher": "shwuy",
+  "repository": {
+    "url": "https://github.com/sxhk0/.theme"
+  },
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.72.0"
