@@ -1,28 +1,21 @@
 {
-  "name": "sxhk0",
-  "displayName": "sxhk0",
-  "description": "personal vscode theme.",
-  "version": "0.0.2",
+  "name": "zhxo",
+  "displayName": "shwuy",
+  "description": "shwuy's personal vscode theme collection.",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.72.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
-        "label": "Monocr",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Monocr-color-theme.json"
-      },
-      {
-        "label": "Monocr (Simple)",
+        "label": "zhxo'cr",
         "uiTheme": "vs-dark",
         "path": "./themes/Monocr.NoGutter-color-theme.json"
       },
       {
-        "label": "Collapse",
+        "label": "zhxo'collapse",
         "uiTheme": "vs-dark",
         "path": "./themes/Collapse.NoGutter-color-theme.json"
       },
