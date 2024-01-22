@@ -1,3 +1,7 @@
-![zhxo'red](https://github.com/sxhk0/.theme/assets/47329939/3202e752-7b2c-4569-931b-48a9b8dd61f8)
+![Visual Studio Marketplace Version (including pre-releases)](https://img.shields.io/visual-studio-marketplace/v/shwuy.zhxo-themes)
+![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/shwuy.zhxo-themes)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/shwuy.zhxo-themes)
 
-<h6 align="center">personal theme collection — @shwuy</h6>
+![zhxo'themes](https://github.com/sxhk0/.theme/assets/47329939/8813a5e9-8096-4a8d-801d-a79e0c166a14)
+
+<h6 align="left">personal theme collection — @shwuy</h6>
