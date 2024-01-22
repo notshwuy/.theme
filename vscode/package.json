@@ -6,7 +6,7 @@
   "repository": {
     "url": "https://github.com/sxhk0/.theme"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -18,7 +18,7 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Monocr.NoGutter-color-theme.json"
       },
-     {
+      {
         "label": "zhxo'yll",
         "uiTheme": "vs-dark",
         "path": "./themes/Yellow.NoGutter-color-theme.json"
@@ -27,6 +27,11 @@
         "label": "zhxo'red",
         "uiTheme": "vs-dark",
         "path": "./themes/Red.NoGutter-color-theme.json"
+      },
+      {
+        "label": "zhxo'red (experimental)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Red-Object-Contrast.NoGutter-color-theme.json"
       }
     ]
   }
