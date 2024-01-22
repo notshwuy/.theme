@@ -6,7 +6,7 @@
   "repository": {
     "url": "https://github.com/sxhk0/.theme"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -18,12 +18,7 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Monocr.NoGutter-color-theme.json"
       },
-      {
-        "label": "zhxo'collapse",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Collapse.NoGutter-color-theme.json"
-      },
-      {
+     {
         "label": "zhxo'yll",
         "uiTheme": "vs-dark",
         "path": "./themes/Yellow.NoGutter-color-theme.json"
