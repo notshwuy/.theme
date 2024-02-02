@@ -1,0 +1,58 @@
+"ui.background.separator" = { fg = "#85858530" }
+"ui.text" = { fg = "#fefefe" }
+
+# cursor features
+"ui.selection" = { bg = "#41414122" }
+"ui.cursor" = { modifiers = ["reversed", "dim"] }
+
+# line numbers
+"ui.linenr" = { fg = "#85858560" }
+"ui.linenr.selected" = { fg = "#ffffffb3" }
+
+# statusline
+"ui.statusline"	= { fg = "#85858540" }
+
+# widgets/menus etc
+"ui.highlight" = { fg = "#e08282", bg = "#ff0000" }
+
+"ui.menu" = { fg = "#85858530" }
+"ui.menu.selected" = { fg = "#cbbce6" }
+
+"ui.help" = { fg = "#cbbce6" }
+"ui.menu.scroll" = { bg = "#f7eae2" }
+
+"ui.popup.info" = { fg = "#cbbce6" }
+"ui.popup" = { fg = "#cbbce6" }
+
+# diagnostics
+hint = { fg = "#7577ff" }
+info = { fg = "#7577ff" }
+warning = { fg = "#e29a5b" }
+error = { fg = "#f417771" }
+
+"diagnostic.hint" = { underline = { color = "#7577ff", style = "dotted" } }
+"diagnostic.info" = { underline = { color = "#7577ff", style = "dotted" } }
+"diagnostic.warning" = { underline = { color = "#e29a5b", style = "dotted" } }
+"diagnostic.error" = { underline = { color = "#f47771", style = "dotted" } }
+
+# syntax
+
+comment = "#9a9ea3"
+string = "#6ff2ae"
+
+operator = "#e08282"
+keyword = "#e08282"
+constant = "#e08282"
+
+tag = "#e08282"
+
+"variable.builtin" = "#e08282"
+"variable.other" = "#f7eae2"
+variable = "#ffffff"
+
+punctuation = "#ababab"
+
+function = "#cbbce6"
+constructor = "#ffffff"
+
+"markup.heading" = "#e08282"
