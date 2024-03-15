@@ -13,7 +13,7 @@
 "ui.statusline"	= { fg = "#85858540" }
 
 # widgets/menus etc
-"ui.highlight" = { fg = "#e08282", bg = "#ff0000" }
+"ui.highlight" = { fg = "#e08282", bg = "#41414122" }
 
 "ui.menu" = { fg = "#85858530" }
 "ui.menu.selected" = { fg = "#cbbce6" }
