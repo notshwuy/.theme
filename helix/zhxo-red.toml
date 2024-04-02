@@ -1,18 +1,20 @@
 "ui.background.separator" = { fg = "#85858530" }
-"ui.text" = { fg = "#fefefe" }
 
-# cursor features
+"ui.text" = { fg = "#fefefe" }
+"ui.text.focus" = { fg = "#cbbce6" }
+
+"ui.window" = { fg = "#41414110" }
+
 "ui.selection" = { bg = "#41414122" }
 "ui.cursor" = { modifiers = ["reversed", "dim"] }
 
-# line numbers
 "ui.linenr" = { fg = "#85858560" }
 "ui.linenr.selected" = { fg = "#ffffffb3" }
 
 # statusline
-"ui.statusline"	= { fg = "#85858540" }
+"ui.statusline"	= { fg = "#85858540"}
 
-# widgets/menus etc
+# widgets
 "ui.highlight" = { fg = "#e08282", bg = "#41414122" }
 
 "ui.menu" = { fg = "#85858530" }
@@ -36,13 +38,13 @@ error = { fg = "#f417771" }
 "diagnostic.error" = { underline = { color = "#f47771", style = "dotted" } }
 
 # syntax
-
 comment = "#9a9ea3"
 string = "#6ff2ae"
 
 operator = "#e08282"
 keyword = "#e08282"
 constant = "#e08282"
+attribute = "#e08282"
 
 tag = "#e08282"
 
@@ -52,7 +54,8 @@ variable = "#ffffff"
 
 punctuation = "#ababab"
 
+"markup.heading" = "#e08282"
+
 function = "#cbbce6"
 constructor = "#ffffff"
 
-"markup.heading" = "#e08282"
