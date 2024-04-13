@@ -19,6 +19,11 @@
         "path": "./themes/Monocr.NoGutter-color-theme.json"
       },
       {
+        "label": "zhxo'lt",
+        "uiTheme": "vs",
+        "path": "./themes/zhxo-lt-color-theme.json"
+      },
+      {
         "label": "zhxo'yll",
         "uiTheme": "vs-dark",
         "path": "./themes/Yellow.NoGutter-color-theme.json"
