@@ -6,7 +6,7 @@
   "repository": {
     "url": "https://github.com/sxhk0/.theme"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.72.0"
   },
