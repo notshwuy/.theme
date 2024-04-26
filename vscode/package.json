@@ -24,6 +24,11 @@
         "path": "./themes/Light.color-theme.json"
       },
       {
+        "label": "zhxo'st",
+        "uiTheme": "vs",
+        "path": "./themes/Purple.color-theme.json"
+      },
+      {
         "label": "zhxo'yll",
         "uiTheme": "vs-dark",
         "path": "./themes/Yellow.NoGutter-color-theme.json"
