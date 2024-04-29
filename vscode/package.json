@@ -1,12 +1,12 @@
 {
   "name": "zhxo-themes",
-  "displayName": "zhxo'themes",
+  "displayName": "zh'themes",
   "description": "shwuy's personal vscode theme collection.",
   "publisher": "shwuy",
   "repository": {
     "url": "https://github.com/sxhk0/.theme"
   },
-  "version": "1.0.7",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -14,32 +14,27 @@
   "contributes": {
     "themes": [
       {
-        "label": "zhxo'cr",
+        "label": "zh'cr",
         "uiTheme": "vs-dark",
         "path": "./themes/Monocr.NoGutter-color-theme.json"
       },
       {
-        "label": "zhxo'lt",
+        "label": "zh'lt",
         "uiTheme": "vs",
         "path": "./themes/Light.color-theme.json"
       },
       {
-        "label": "zhxo'st",
+        "label": "zh'st",
         "uiTheme": "vs-dark",
         "path": "./themes/Purple.color-theme.json"
       },
       {
-        "label": "zhxo'yll",
+        "label": "zh'yll",
         "uiTheme": "vs-dark",
         "path": "./themes/Yellow.NoGutter-color-theme.json"
       },
       {
-        "label": "zhxo'red",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Red.NoGutter-color-theme.json"
-      },
-      {
-        "label": "zhxo'red (experimental)",
+        "label": "zh'red",
         "uiTheme": "vs-dark",
         "path": "./themes/Red-Object-Contrast.NoGutter-color-theme.json"
       }
