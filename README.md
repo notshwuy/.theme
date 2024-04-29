@@ -2,6 +2,6 @@
 ![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/shwuy.zhxo-themes)
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/shwuy.zhxo-themes)
 
-![zhxo'themes](https://github.com/sxhk0/.theme/assets/47329939/8813a5e9-8096-4a8d-801d-a79e0c166a14)
-
+[![theme-header](https://github.com/notshwuy/.theme/assets/47329939/cbfc1fda-7785-4c01-bb1c-086052a3929b)](https://marketplace.visualstudio.com/items?itemName=shwuy.zhxo-themes)
+  
 <h6 align="left">personal theme collection — @shwuy</h6>
